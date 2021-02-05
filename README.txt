@@ -1,0 +1,1 @@
+Plik .exe znajduje się w folderze AppFolder pod nazwa Krypto2Proj_249384.exe
